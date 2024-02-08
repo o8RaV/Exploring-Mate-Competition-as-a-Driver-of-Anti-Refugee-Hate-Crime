@@ -1,0 +1,56 @@
+---
+title: "Exploring Mate Competition As A Driver OF Anti Refugee Hate Crime"
+author: 
+  - Raghav Kanda
+thanks: "Code and data are available at: [https://github.com/o8RaV/Exploring-Mate-Competition-as-a-Driver-of-Anti-Refugee-Hate-Crime/tree/main) [@knitr]"
+
+date: Feburary 10, 2024
+date-format: long
+abstract: "The dataset obtained from the City of Toronto's OpenDataToronto Library sheds light on poll engagement dynamics within the city. With records starting from April 1, 2015, this study explores various facets of poll participation, including ballot distribution, cast and blank ballots, declarations added, and final voter counts."
+format: pdf
+number-sections: true
+bibliography: references.bib
+---
+
+# Table of Contents
+
+- Table of Contents
+
+- Introduction
+
+- Data
+    - Source
+    - Methodolgy
+    - Features
+
+- Results
+
+- Discussion
+    - Findings
+    - Limitations
+    - Future Research
+
+- References
+
+\newpage
+
+# Introduction
+
+\newpage
+
+# Data
+
+\newpage
+
+# Results
+
+\newpage
+
+# Discussions
+
+\newpage
+
+# References
+```{bibliography}
+```
+
