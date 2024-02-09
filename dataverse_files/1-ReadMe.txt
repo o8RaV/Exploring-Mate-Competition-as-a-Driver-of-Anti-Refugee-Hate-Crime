@@ -58,7 +58,7 @@ Files and Code to reproduce results on context analysis in the Appendix.
       code: ContextAnalysis_Appendix.R
       data: context.dta and context_placebo.dta
       results: Table C1, C2, C3, C4, C5, C6, C7, C9, and Figure C10
-      Note: we stored bootstrap results as "out_count_table.rdata", which is used to produce Table C5, because it is computationally expensive.        The exact code to reproduce this rdata is given in line 400-417 of "ContextAnalysis_Appendix.R". 
+      Note: we stored bootstrap results as "out_count_table.rdata", which is used to produce Table C5, because it is computationally expensive.       The exact code to reproduce this rdata is given in line 400-417 of "ContextAnalysis_Appendix.R". 
 
 Files and Code to reproduce results on survey analysis in the Appendix.
       code: SurveyAnalysis_Appendix.R
