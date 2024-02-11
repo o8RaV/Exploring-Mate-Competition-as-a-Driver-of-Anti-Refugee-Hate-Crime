@@ -1,9 +1,14 @@
+# LLM-Usage
+
+In conducting this research, it is important to note that no Large Language Models (LLMs) were utilized. The analysis and findings presented in this paper were generated without the assistance of LLMs or any auto-complete tools such as co-pilot. The research process relied solely on conventional data analysis techniques and methodologies. By excluding the use of LLMs, we aimed to ensure transparency and reproducibility in our research methodology.
+
 # Exploring Mate Competition As A Driver OF Anti Refugee Hate Crime
 
 ## Abstract
 The study explores the complex aspects of hate crimes against refugees, focusing on mate competition among native men as a significant factor. Drawing data from Germany, it establishes a correlation between hate crimes and imbalances in the local mating market. Individual-level support for hate crime increases when men perceive an inflow of refugees as a threat to their access to women. The study emphasizes the importance of considering marriage markets in understanding hate crimes and immigrant conflict, calling for further inquiry and urgent policy action.
 
 ## Table of Contents
+- [LLM-Usage](#llm-usage)
 - [Exploring Mate Competition As A Driver OF Anti Refugee Hate Crime](#exploring-mate-competition-as-a-driver-of-anti-refugee-hate-crime)
   - [Abstract](#abstract)
   - [Table of Contents](#table-of-contents)

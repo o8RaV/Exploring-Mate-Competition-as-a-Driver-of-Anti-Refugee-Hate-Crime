@@ -18,10 +18,12 @@ bibliography: refer.bib
 - Introduction:
   - Historical Trends in Hate Crimes
   - Theoretical Framework
+  - Reproductibility
 
 - Data:
   - Methodological Approach
   - Survey Measures
+  - Tools
 
 - Results:
   - Ecological Findings
@@ -52,6 +54,12 @@ The theoretical framework of anti-migrant hate crime delves into the interplay o
 
 The theoretical foundation of mate competition as a catalyst for anti-migrant hate crime emphasizes the potential impact of dating and marriage markets on individual attitudes and threat perceptions towards refugees [@arnocky2014perceived][@dancygier2021hate]. It incorporates the influence of skewed sex ratios, competition for romantic partners, and demographic shifts in shaping attitudes towards hate crimes directed at outsiders. The theoretical framework offers insights into the factors driving support for hate crimes against refugees and underscores the need for a deeper understanding of the social, economic, and demographic dynamics that underpin anti-migrant hate crime trends.
 
+In my paper, the estimand I am focusing on is the effect of mate competition on support for anti-refugee hate crime. Specifically, I aim to estimate how perceived mate competition among native men, influenced by the inflow of refugees, impacts the level of support for hate crimes against refugees.
+
+## Reproductibility
+
+This study emphasizes reproducibility to ensure transparency and reliability in my analysis. The analysis was conducted using the R programming language[@Rmanual], and all code and data used in this study are openly available in the accompanying GitHub repository. The provided code files document the data preprocessing steps, analysis pipeline, and visualization techniques employed. We have adopted an R project structure and version control system with Git to facilitate replication. By adhering to these practices, I aim to provide a transparent and replicable analysis that contributes to the integrity and trustworthiness of our findings.
+
 # Data
 
 ## Methodological Approach:
@@ -65,6 +73,10 @@ The study also incorporated ecological analysis by examining contextual factors 
 The survey included a battery of variables measuring respondents' views about the national and local repercussions of refugees. Additionally, it incorporated items gauging perceived mate competition and support for hate crime, such as the statement "Mate Competition: The inflow of refugees makes it more difficult for native men to find female partners." These survey measures aimed to capture individual attitudes and perceptions that could potentially drive support for anti-refugee hate crime [@dancygier2021hate].
 
 The study also conducted list experiments and direct questioning to assess respondents' support for hate crime. By analyzing responses to multiple goal-oriented hate crime items and elite sanctions, the study aimed to provide a comprehensive investigation of attitudes toward anti-migrant hate crime. This approach allowed for a nuanced understanding of the factors influencing support for hate crime and the expression of sincere attitudes [@long2022jtools].
+
+## Tools
+
+In crafting my paper, I leveraged a diverse array of tools and references to ensure comprehensive analysis and presentation. The foundation of our data manipulation and analysis was laid using the versatile capabilities of R [@Rmanual], with key packages such as dplyr [@wickham2022dplyr] and readr [@wickham2023readr] facilitating efficient data handling. Visualization and tabular presentation were enhanced through the integration of Huxtable [@hughjones2022huxtable] and kableExtra [@zhu2021kableExtra], offering polished and informative displays. The statistical rigor of our findings was underpinned by methodologies outlined in Modern Applied Statistics with S [@venables2002modern] and diagnostic techniques from Zeileis and Grothendieck [@zeileis2002diagnostic]. Additionally, our research drew upon insights from recent studies such as those by Garbuszus et al. [@garbuszus2021readstata13], Jeudy [@jeudy2022canada], and Moreau [@moreau2022hate], as well as census data provided by Statistics Canada [@statcan2023census]. This meticulous approach, combined with the accessibility and reproducibility afforded by tools like Knitr [@xie2014knitr] and jtools [@long2022jtools], enabled us to construct a robust and insightful narrative regarding the complex dynamics of our subject matter.
 
 # Results
 
@@ -98,13 +110,13 @@ Future research should focus on systematically incorporating mate competition an
 
 ## Intersectionality:
 
-The research underscores the importance of incorporating intersectional factors, such as gender imbalances and mate competition, into the study of hate crime and anti-migrant behavior [@dancygier2010hate]. By examining the ways in which local mating markets intersect with social identities, the study contributes to an intersectional analysis of intergroup conflicts and tensions [@dancygier2021hate]. Future research should further explore how these intersectional dynamics shape the experiences of both native populations and refugees. This call for intersectional analysis is complemented by the insights provided in Table 1, which presents regression results displaying coefficients for mate competition fears and hate crime support while controlling for various variables, highlighting the nuanced interplay between mate competition fears and hate crime attitudes.
+The research underscores the importance of incorporating intersectional factors, such as gender imbalances and mate competition, into the study of hate crime and anti-migrant behavior [@dancygier2010hate]. By examining the ways in which local mating markets intersect with social identities, the study contributes to an intersectional analysis of intergroup conflicts and tensions [@dancygier2021hate]. Future research should further explore how these intersectional dynamics shape the experiences of both native populations and refugees. This call for intersectional analysis is complemented by the insights provided in Figure 4, which presents regression results displaying coefficients for mate competition fears and hate crime support while controlling for various variables, highlighting the nuanced interplay between mate competition fears and hate crime attitudes.
 
-![Table 1](table_1.png)
+![Regression Results Displaying Coefficients for Mate Competition Fears and Hate Crime Support](table_1.png)
 
 ## Comparative Analysis:
 
-The study provides insights into the comparative dynamics of hate crime and anti-refugee behavior across different countries [@koopmans1996explaining]. It emphasizes the need to compare local mating markets and their implications for intergroup tensions in various socio-cultural settings [@campbell2013mind]. A comparative analysis of the intersection of gender imbalances, mate competition, and violence against refugees can offer a broader understanding of these phenomena and their variation across different national and regional contexts [@hager2019attitudes]. Such comparative analyses are essential for elucidating the contextual factors that shape attitudes towards refugees and hate crimes, as highlighted in Figure 4, which presents the proportion of respondents who agree with each of the four hate crime statements in Wave 2, offering insights into cross-cultural variations in attitudes towards hate crimes.
+The study provides insights into the comparative dynamics of hate crime and anti-refugee behavior across different countries [@koopmans1996explaining]. It emphasizes the need to compare local mating markets and their implications for intergroup tensions in various socio-cultural settings [@campbell2013mind]. A comparative analysis of the intersection of gender imbalances, mate competition, and violence against refugees can offer a broader understanding of these phenomena and their variation across different national and regional contexts [@hager2019attitudes]. Such comparative analyses are essential for elucidating the contextual factors that shape attitudes towards refugees and hate crimes, as highlighted in Figure 5, which presents the proportion of respondents who agree with each of the four hate crime statements in Wave 2, offering insights into cross-cultural variations in attitudes towards hate crimes.
 
 ![Proportion of RespondentsWho Agree with Each of the Four Hate Crime Statements inWave 2](figure_3.png)
 
@@ -112,24 +124,6 @@ The study provides insights into the comparative dynamics of hate crime and anti
 
 # References
 
-[@garbuszus2021readstata13]
-[@statcan2023census]
-[@hughjones2022huxtable]
-[@jeudy2022canada]
-[@long2022jtools]
-[@macrotrendsrefugee]
-[@moreau2022hate]
-[@muller2020here]
-[@schulz2021pbrackets]
-[@venables2002modern]
-[@wakefield2017alberta]
-[@wickham2019welcome]
-[@wickham2022dplyr]
-[@wickham2023readr]
-[@xie2014knitr]
-[@zeileis2006object]
-[@zeileis2002diagnostic]
-[@zhu2021kableExtra]
 ```
 {bibliography}
 ```

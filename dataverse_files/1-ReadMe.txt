@@ -11,7 +11,11 @@
 - **Memory:** 16.0 GB (15.6 GB usable) DDR4
 - **Software:** R version 4.0.2
 
-R Packages Used:
+**LLM Usage:**
+
+In conducting this research, it is important to note that no Large Language Models (LLMs) were utilized. The analysis and findings presented in this paper were generated without the assistance of LLMs or any auto-complete tools such as co-pilot. The research process relied solely on conventional data analysis techniques and methodologies. By excluding the use of LLMs, I aimed to ensure transparency and reproducibility in our research methodology.
+
+**R Packages Used:**
 
 readstata13: Used for reading Stata data files (*.dta).
 MASS: Provides functions and datasets for the book "Modern Applied Statistics with S" by Venables and Ripley. Widely-used for statistical modeling.
