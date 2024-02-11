@@ -25,6 +25,10 @@ bibliography: refer.bib
   - Survey Measures
   - Tools
 
+- Simulation and Tests
+  - Simulation
+  - Tests
+
 - Results:
   - Ecological Findings
   - Individual-Level Evidence
@@ -56,9 +60,17 @@ The theoretical foundation of mate competition as a catalyst for anti-migrant ha
 
 In my paper, the estimand I am focusing on is the effect of mate competition on support for anti-refugee hate crime. Specifically, I aim to estimate how perceived mate competition among native men, influenced by the inflow of refugees, impacts the level of support for hate crimes against refugees.
 
-## Reproductibility
+## Replication
 
-This study emphasizes reproducibility to ensure transparency and reliability in my analysis. The analysis was conducted using the R programming language[@Rmanual], and all code and data used in this study are openly available in the accompanying GitHub repository. The provided code files document the data preprocessing steps, analysis pipeline, and visualization techniques employed. We have adopted an R project structure and version control system with Git to facilitate replication. By adhering to these practices, I aim to provide a transparent and replicable analysis that contributes to the integrity and trustworthiness of our findings.
+The reproduction is based on the following paper:
+
+"Hate Crimes and Gender Imbalances: Fears over Mate Competition and Violence against Refugees" by Rafaela Dancygier, Naoki Egami, Amaney Jamal, and Ramona Rischke.
+
+To facilitate transparency and reproducibility, I have submitted my research to the Social Science Reproduction Platform (SSRP). The SSRP submission includes comprehensive documentation of our data sources, methodology, analysis code, and results. This submission serves as a detailed record of our research process, allowing other researchers to replicate our findings and verify the robustness of our conclusions.
+
+The SSRP submission can be accessed at [SSRP Submission](https://www.socialsciencereproduction.org/reproductions/46770ff4-b1ed-4f40-a78d-9c30d99037f3/index).
+
+By sharing our research process through the SSRP submission, I aim to promote transparency, accountability, and trustworthiness in social science research. I encourage other researchers to access and utilize our materials for replication purposes, fostering open and collaborative inquiry in our field.
 
 # Data
 
@@ -77,6 +89,26 @@ The study also conducted list experiments and direct questioning to assess respo
 ## Tools
 
 In crafting my paper, I leveraged a diverse array of tools and references to ensure comprehensive analysis and presentation. The foundation of our data manipulation and analysis was laid using the versatile capabilities of R [@Rmanual], with key packages such as dplyr [@wickham2022dplyr] and readr [@wickham2023readr] facilitating efficient data handling. Visualization and tabular presentation were enhanced through the integration of Huxtable [@hughjones2022huxtable] and kableExtra [@zhu2021kableExtra], offering polished and informative displays. The statistical rigor of our findings was underpinned by methodologies outlined in Modern Applied Statistics with S [@venables2002modern] and diagnostic techniques from Zeileis and Grothendieck [@zeileis2002diagnostic]. Additionally, our research drew upon insights from recent studies such as those by Garbuszus et al. [@garbuszus2021readstata13], Jeudy [@jeudy2022canada], and Moreau [@moreau2022hate], as well as census data provided by Statistics Canada [@statcan2023census]. This meticulous approach, combined with the accessibility and reproducibility afforded by tools like Knitr [@xie2014knitr] and jtools [@long2022jtools], enabled us to construct a robust and insightful narrative regarding the complex dynamics of our subject matter.
+
+# Simulation and Tests
+
+## Simulation
+
+In conducting our research, I employed simulation techniques to assess the robustness of our findings under various scenarios. Specifically, we simulated different levels of mate competition among native men and examined how these variations impacted support for anti-refugee hate crime. By simulating different demographic compositions and mate availability scenarios, I aimed to provide insights into the potential range of effects and the stability of our results across diverse contexts.
+
+Our simulation methodology involved generating synthetic datasets based on established demographic patterns and assumptions about mate competition dynamics. I then conducted our analyses on these simulated datasets, allowing us to explore the sensitivity of our findings to changes in underlying parameters. Through this approach, we sought to enhance the validity and generalizability of our conclusions by testing their robustness under different conditions.
+
+## Tests
+
+To ensure the reliability and validity of our analyses, I implemented rigorous testing procedures throughout our research process. These tests encompassed various aspects of our data analysis pipeline, including data preprocessing, statistical modeling, and hypothesis testing.
+
+First, I conducted data integrity checks to identify and address any anomalies or inconsistencies in our dataset. This involved examining data distributions, detecting outliers, and verifying the accuracy of data transformations.
+
+Next, I employed hypothesis tests to assess the significance of relationships between variables and to evaluate the strength of associations observed in our analyses. I utilized a combination of parametric and non-parametric tests, depending on the nature of the data and the assumptions underlying each test.
+
+Furthermore, I conducted sensitivity analyses to evaluate the robustness of our results to different modeling assumptions and analytical techniques. This involved systematically varying key parameters and assessing the impact of these variations on our conclusions.
+
+Overall, our testing procedures were designed to ensure the reliability, validity, and generalizability of our findings, thereby enhancing the credibility of our research outcomes.
 
 # Results
 
