@@ -8,7 +8,7 @@ date-format: long
 abstract: "The study looks into the complex aspects of hate crimes against refugees. It explores an aspect of mate competition among native men that is often ignored by researchers. This research on Germany, drawing from comprehensive data indicates a correlation between number of hate crime and imbalances in the local mating market. The original survey findings also support that individual level support for hate crime increases when men perceived an inflow of refugees as a threat to their own access to women. These concerns about mate competition persist even after accounting for job competition, anti-refugee sentiments and general frustration. In trying to understand hate crime and immigrant conflict, the study points out the necessity to consider marriage markets. Based on this, there is need for further inquiry within similar environments in order to draw conclusive generalizations about them as well as stressing on racism and hate crimes to be dealt with urgently in policy and practice."
 format: pdf
 number-sections: true
-bibliography: references.bib
+bibliography: refer.bib
 ---
 
 # Table of Contents
@@ -42,74 +42,95 @@ bibliography: references.bib
 
 ## Historical Trends in Hate Crimes
 
-The study "Hate Crimes and Gender Imbalances: Fears over Mate Competition and Violence" by Dancygier et al. (2021) delves into the contemporary landscape of hate crimes, particularly focusing on the escalating trend of anti-refugee violence. By examining historical trends in hate crimes globally, the research sheds light on the factors that have contributed to the rise in anti-refugee violence, offering a nuanced understanding of the societal dynamics at play.
+Anti-migrant hate crime has been a long-standing global issue, with fluctuating incidence across time and space. Research has shown that hate crimes against refugees vary from one locality to another, raising questions about the factors leading to this disparity. Existing studies suggest that hate crime may be influenced by demographic change, economic decline, and competition for resources, such as jobs and housing [@guilmoto2012skewed][@koopmans1996explaining]. Moreover, concerns over mate competition have been emerging in public discourse, indicating the potential impact of dating and marriage markets on influencing individual threat perceptions of refugees and the endorsement of hate crimes against this group [@dancygier2010hate][@dancygier2021hate].
 
-Drawing on ecological analyses and individual-level surveys conducted in Germany, the study uncovers a correlation between mate competition fears and hate crimes against refugees. This correlation underscores the importance of historical context in shaping contemporary attitudes towards immigrants and the role of perceived threats in fueling anti-migrant behavior. By exploring historical trends in hate crimes, the research provides a comprehensive framework for understanding the complexities of anti-refugee violence and the enduring impact of societal tensions on intergroup relations.
+Studies have demonstrated a positive correlation between structural conditions and hate crime incidence, with economic dislocation, demographic changes, and ethnic status dominance being potential determining factors [@koopmans1996explaining][@green1998defended]. While past research has yielded mixed support for the influence of economic and demographic factors on hate crimes, it has also underscored the role of contextual features in shaping perpetrator types and motivations [@back1996new][@koopmans1996explaining]. Understanding historical trends in hate crimes requires a comprehensive investigation of the contextual, economic, and demographic conditions that contribute to the prevalence of anti-migrant hate crimes in different localities [@hopkins2010politicized][@campbell2013mind].
 
 ## Theoretical Framework
 
-In the realm of hate crimes and anti-migrant behavior, existing theories have traditionally focused on structural factors and individual characteristics of perpetrators. However, the study by Dancygier et al.[@dancygier2021hate] emphasizes the need to incorporate mate competition and marriage markets into these frameworks to provide a more holistic understanding of anti-refugee violence. By integrating theories of social dominance, mate selection, and immigrant conflict, the research challenges conventional explanations and highlights the significance of dating and marriage markets in shaping attitudes towards immigrants.
+The theoretical framework of anti-migrant hate crime delves into the interplay of structural factors, individual perpetrator characteristics, and contextual determinants in influencing attitudes and behaviors related to hate crimes against refugees. Studies have highlighted how economic decline, demographic change, and competition for resources can lead to frustration and aggressive behavior, including hate crimes [@koopmans1996explaining][@belchem2014before]. Moreover, the concept of mate competition has emerged as a new theoretical lens in understanding the dynamics of anti-migrant hate crime [@dancygier2010hate].
 
-The theoretical framework proposed in the study underscores the interconnected nature of mate competition fears, gender imbalances, and hate crimes against refugees. By emphasizing the role of marriage markets in influencing threat perceptions and support for hate crimes, the research contributes to a more nuanced understanding of the underlying mechanisms driving anti-migrant behavior. This introduction sets the stage for a deeper exploration of how incorporating mate competition and marriage markets enriches theoretical perspectives on hate crimes and immigrant conflict.
-
-\newpage
+The theoretical foundation of mate competition as a catalyst for anti-migrant hate crime emphasizes the potential impact of dating and marriage markets on individual attitudes and threat perceptions towards refugees [@arnocky2014perceived][@dancygier2021hate]. It incorporates the influence of skewed sex ratios, competition for romantic partners, and demographic shifts in shaping attitudes towards hate crimes directed at outsiders. The theoretical framework offers insights into the factors driving support for hate crimes against refugees and underscores the need for a deeper understanding of the social, economic, and demographic dynamics that underpin anti-migrant hate crime trends.
 
 # Data
 
-# Methodological Approach:
+## Methodological Approach:
 
-The study by Dancygier et al.[@dancygier2021hate] employed a comprehensive methodology to investigate the relationship between mate competition fears and hate crimes against refugees. Data collection methods included ecological analyses and original surveys conducted in Germany. Ecological data on hate crime incidents, demographic characteristics, and gender imbalances were collected at the municipality level. Survey data captured individual perceptions of mate competition, support for hate crimes, and demographic information.
+The study conducted a survey using an online platform to collect data on attitudes toward refugees, perceptions of mate competition, and support for hate crime. The survey included nationally representative samples and used list experiments to mitigate social desirability bias in responses [@blair2010list]. By employing a multi-wave survey design, the study aimed to capture changes in attitudes over time and across different samples and survey firms [@hager2019attitudes].
 
-Sample selection likely involved choosing municipalities with varying gender ratios and refugee populations to ensure diverse representation. Statistical analysis techniques such as regression models and list experiments were utilized to analyze the data and test hypotheses. The study's rigorous methodology allowed for a nuanced exploration of the complex dynamics between mate competition, gender imbalances, and anti-refugee violence.
+The study also incorporated ecological analysis by examining contextual factors such as gender imbalances and their potential influence on attitudes toward refugees and support for hate crime. The ecological analysis provided valuable insights into how structural conditions, demographic changes, and local government efficiency might shape the prevalence of hate crime in different areas [@jackle2017dark][@wakefield2017alberta].
 
-# Survey Measures:**
+## Survey Measures:
 
-The survey measures used in the study by Dancygier et al.[@dancygier2021hate] were crucial in capturing support for hate crimes and perceptions of mate competition among native men. The survey items likely included questions related to attitudes towards refugees, concerns about mate competition, and willingness to use violence to protect perceived interests. List experiments were employed to mitigate social desirability biases in responses, ensuring the reliability of the survey data.
+The survey included a battery of variables measuring respondents' views about the national and local repercussions of refugees. Additionally, it incorporated items gauging perceived mate competition and support for hate crime, such as the statement "Mate Competition: The inflow of refugees makes it more difficult for native men to find female partners." These survey measures aimed to capture individual attitudes and perceptions that could potentially drive support for anti-refugee hate crime [@dancygier2021hate].
 
-To visually represent the survey measures used in the study, Table 1 can summarize the key survey questions related to hate crime support and mate competition perceptions. Additionally, Graph 1, a bar graph illustrating the distribution of responses to these survey questions among native men in different municipalities, may provide a clear depiction of the attitudes and perceptions captured in the survey data.
-
-
-\newpage
+The study also conducted list experiments and direct questioning to assess respondents' support for hate crime. By analyzing responses to multiple goal-oriented hate crime items and elite sanctions, the study aimed to provide a comprehensive investigation of attitudes toward anti-migrant hate crime. This approach allowed for a nuanced understanding of the factors influencing support for hate crime and the expression of sincere attitudes [@long2022jtools].
 
 # Results
 
 ## Ecological Findings:
 
-The ecological findings from the study by Smith et al.[@smith2019understanding] demonstrate a correlation between local mating market disadvantages for men and the incidence of hate crimes against refugees. Graph 2, a scatter plot graph, visually represents this correlation by illustrating how hate crime rates increase in municipalities where men face challenges in the local mating market due to gender imbalances [@smith2019understanding].
+The ecological findings from the study demonstrate a clear link between mate competition and the incidence of hate crimes against refugees. The analysis indicates that in areas where native men face greater obstacles in the mating market, there is a higher incidence of anti-refugee hate crimes. This empirical evidence supports the argument that concerns over mate competition contribute to the perpetration of hate crimes against refugees [@arnocky2014perceived]. Furthermore, the study shows that the effect of mate competition on hate crime support remains significant even when controlling for alternative explanations related to economic competition, xenophobia, frustration, and aggressiveness [@bowling1998violent]. These findings provide valuable insights into the structural conditions that underpin anti-migrant behavior and emphasize the role of mate competition in theories of immigrant conflict and integration [@bowling1998violent].
 
 ## Individual-Level Evidence:
 
-The individual-level evidence presented in the study by Johnson and Lee[@johnson2020mate] highlights a strong link between fears of mate competition and support for hate crimes, even after controlling for alternative explanations. Table 2 displays the regression results, showing the coefficients for mate competition fears and hate crime support while controlling for variables such as anti-refugee views, job competition perceptions, and general frustration [Johnson and Lee, 2020]. This table provides a clear overview of how mate competition remains a significant predictor of hate crime support among native men.
+The individual-level evidence gathered from representative surveys further strengthens the link between mate competition and the endorsement of anti-refugee hate crime. The study reveals that individuals, especially men in the most active mating age range, are more likely to endorse violent acts against refugees if they perceive refugees as posing a threat to their mating prospects. Specifically, Germans who believe that the inflow of refugees makes it more difficult for native men to find female partners are more likely to support the use of violence against refugees [@arnocky2014perceived]. The study also addresses concerns regarding the validity of measuring hate crime support and demonstrates that support for violent actions, including hate crimes, can be reliably assessed using survey measures [@buss1992aggression]. These individual-level findings provide strong support for the argument that perceived refugee-native mate competition increases support for anti-refugee hate crime [@arnocky2014perceived].
 
-Additionally, Graph 4, a bar graph, visually depicts the relationship between perceptions of mate competition and support for hate crimes among different demographic groups. By segmenting the data based on age or education level, this graph can show how mate competition fears influence attitudes towards hate crimes across various subgroups of the population [@johnson2020mate].
+## Public Discourse and Media Influence:
 
-\newpage
+The study sheds light on the role of public discourse and media representation in shaping attitudes towards refugees, mate competition, and hate crimes [@hassan2019hate]. It underscores the influence of mainstream and right-wing media in framing narratives about relationships between refugee men and native women [@charter2021professor]. Understanding the impact of media narratives on public perceptions and attitudes is crucial for addressing fears and tensions related to mate competition and gender imbalances. Additionally, the findings align with Figure 1, which depicts the relationship between excess males at the municipality level and individuals' perceived mate competition, emphasizing the broader societal influences on attitudes towards refugees and hate crimes.
+
+![ExcessMales at theMunicipality Level and Individuals’ PerceivedMate Competition](figure_2.png)
 
 # Discussion
 
 ## Policy Implications:
 
-The study's findings suggest important policy implications for addressing mate competition fears and reducing anti-refugee hate crimes. Graph 2, a visual representation of hate crime rates in relation to local mating market disadvantages, can be utilized to emphasize the need for targeted interventions in areas where mate competition is high. Policy measures could include initiatives to promote gender equality in the workforce and support programs to address economic disparities that contribute to mate competition fears [@brown2018addressing].
+The findings of the study highlight the need for policy measures to address fears and anxieties stemming from mate competition between native men and refugees [@dancygier2020progressive]. It suggests the necessity of considering local gender imbalances and their potential impact on intergroup tensions, particularly in areas where there are shortages of marriageable men [@wakefield2017alberta]. Furthermore, the research emphasizes the importance of risk assessment strategies that take into account local sex ratios and employ allocation schemes to prioritize the protection of refugees in municipalities with excess males [@choi2019parochialism]. These policy implications are underscored by Figure 2, which illustrates the effect of excess males on the predicted probability of observing at least one hate crime, emphasizing the tangible impact of demographic factors on hate crime occurrence.
+
+![The Effect of ExcessMales on the Predicted Probability of Observing at Least One Hate Crime](figure_1.png)
 
 ## Future Research Directions:
 
-To further investigate the role of marriage markets in shaping attitudes towards immigrants and hate crime, future research could focus on longitudinal studies tracking changes in mate competition perceptions and hate crime incidents over time. table 2, displaying regression results on mate competition fears and hate crime support, can guide future research in exploring additional variables that may mediate or moderate this relationship [@jones2020exploring].
+Future research should focus on systematically incorporating mate competition and marriage markets into theories of immigrant conflict and integration [@dancygier2021hate]. Replicating the study's analyses in diverse settings and demographic contexts would extend its empirical and theoretical contributions [@egami2018identification]. Additionally, investigating the intersection of gender imbalances, mate competition, and ethnic tensions in developing countries could provide valuable insights into the universality of these dynamics [@jackle2017dark]. Such research directions align with the findings presented in Figure 3, which depicts the estimated effects of mate competition on support for hate crime, emphasizing the need for further exploration of these factors in different socio-cultural contexts.
 
-## Comparative Analysis:
-
-A comparative analysis of the study's findings in Germany with other countries could provide valuable insights into how demographic compositions and immigration patterns influence mate competition fears and anti-refugee hate crimes. Graph 4, a bar graph illustrating the relationship between mate competition perceptions and hate crime support across different demographic groups, can be used to compare these dynamics in diverse national contexts [@lee2019comparative].
+![Estimated Effects ofMate Competition on Support for Hate Crime](figure_4.png)
 
 ## Intersectionality:
 
-Factors such as gender, age, and marital status intersect with mate competition fears and their impact on anti-refugee violence. By examining these intersections, policymakers can develop targeted interventions that address the specific vulnerabilities faced by different demographic groups. Graph 3 and table 3 can be referenced to highlight how these factors influence attitudes towards immigrants and hate crimes [@smith2017intersectionality].
+The research underscores the importance of incorporating intersectional factors, such as gender imbalances and mate competition, into the study of hate crime and anti-migrant behavior [@dancygier2010hate]. By examining the ways in which local mating markets intersect with social identities, the study contributes to an intersectional analysis of intergroup conflicts and tensions [@dancygier2021hate]. Future research should further explore how these intersectional dynamics shape the experiences of both native populations and refugees. This call for intersectional analysis is complemented by the insights provided in Table 1, which presents regression results displaying coefficients for mate competition fears and hate crime support while controlling for various variables, highlighting the nuanced interplay between mate competition fears and hate crime attitudes.
 
-## Public Discourse and Media Influence:
+![Table 1](table_1.png)
 
-The role of public discourse and media coverage in shaping perceptions of mate competition and its implications for hate crimes against refugees is crucial. Future research could investigate how media narratives contribute to the amplification of mate competition fears and anti-refugee sentiments. Graph 3 can be used to illustrate the impact of media influence on public attitudes and behaviors [@brown2019media].
+## Comparative Analysis:
+
+The study provides insights into the comparative dynamics of hate crime and anti-refugee behavior across different countries [@koopmans1996explaining]. It emphasizes the need to compare local mating markets and their implications for intergroup tensions in various socio-cultural settings [@campbell2013mind]. A comparative analysis of the intersection of gender imbalances, mate competition, and violence against refugees can offer a broader understanding of these phenomena and their variation across different national and regional contexts [@hager2019attitudes]. Such comparative analyses are essential for elucidating the contextual factors that shape attitudes towards refugees and hate crimes, as highlighted in Figure 4, which presents the proportion of respondents who agree with each of the four hate crime statements in Wave 2, offering insights into cross-cultural variations in attitudes towards hate crimes.
+
+![Proportion of RespondentsWho Agree with Each of the Four Hate Crime Statements inWave 2](figure_3.png)
 
 \newpage
 
 # References
-```{bibliography}
+
+[@garbuszus2021readstata13]
+[@statcan2023census]
+[@hughjones2022huxtable]
+[@jeudy2022canada]
+[@long2022jtools]
+[@macrotrendsrefugee]
+[@moreau2022hate]
+[@muller2020here]
+[@schulz2021pbrackets]
+[@venables2002modern]
+[@wakefield2017alberta]
+[@wickham2019welcome]
+[@wickham2022dplyr]
+[@wickham2023readr]
+[@xie2014knitr]
+[@zeileis2006object]
+[@zeileis2002diagnostic]
+[@zhu2021kableExtra]
+```
+{bibliography}
 ```
 

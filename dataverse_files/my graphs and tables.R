@@ -119,7 +119,7 @@ title_c <- c("Predicted Probability: Sum", "Predicted Probability: Annual")
 
 # Plot Dose function
 
-pdf("figure_1.pdf", height = 4, width = 11)
+png("figure_1.png", height = 800, width = 1600)
 par(mfrow = c(1,3), mar = c(4.5, 2, 4, 1), oma = c(0, 2, 0, 0))
 for(i in 1:2){
   plot_coef_all  <- do.call("rbind", marginal_list[[i]]$out_main)
@@ -250,7 +250,7 @@ mean_all_y ## 0.1743119 0.2818182 0.4705882
   diff_table <- cbind(diff_l, se_l, p_value)
 }
 
-pdf("figure_2.pdf", height= 15.5, width = 6.5)
+png("figure_2.png", height = 800, width = 1600)
 par(mfrow = c(3, 1), mar = c(6,5,5,2), oma = c(0,4,0,0))
 plot(seq(1:3), mean_all, pch = 19, ylim = c(0.1,0.4), 
      xlim = c(0.5, 3.5),
@@ -441,7 +441,7 @@ se <- c(summary(lm7.means)$coef["MateComp.cont", 2],
         summary(lm7.prevent)$coef["MateComp.cont", 2], summary(lm7.condemn)$coef["MateComp.cont", 2])
 
 
-pdf("figure_4.pdf", height = 4, width = 8)
+png("figure_4.png", height = 800, width = 1600)
 par(mar = c(2,4,4,1))
 plot(seq(1:5), point, pch = 19, ylim = c(-0.05, 0.25), xlim = c(0.5, 5.5), 
      xlab = "", xaxt = "n", ylab = "Estimated Effects", 
@@ -517,7 +517,7 @@ base <- barplot(point, ylim = c(0, 0.20))
 bar_name_u <- c("Only Means\n(List)","Only Means\n(Direct)", "Justified", "Message", "Condemn")
 bar_name <- rep("",5)
 
-pdf("figure_3.pdf", height = 4.5, width = 8)
+png("figure_3.png", height = 800, width = 1600)
 par(mar = c(4, 5, 2, 1))
 barplot(point, ylim = c(0, 0.3), names.arg = bar_name, 
         col = c(adjustcolor("red", 0.4), "gray", "gray", "gray", "gray"), cex.axis = 1.3,
